@@ -1,4 +1,4 @@
-# c2018
+  c2018
 
 ## 基本操作流程
 
@@ -6,7 +6,7 @@
 2. 创建本地仓库：(如果用机房的电脑，则建议clone到U盘，便于携带)
 
 	```
-	git clone https://github.com/ **YourGithubAccount** /c2018
+	git clone https://github.com/  *YourGithubAccount** /c2018
 	cd c2018
 	ls
 	
@@ -65,3 +65,4 @@
 ### 其他
 
 [免费的计算机编程类中文书籍](https://github.com/wwj718/free-programming-books-zh_CN)
+ 
